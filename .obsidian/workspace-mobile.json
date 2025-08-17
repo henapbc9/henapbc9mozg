@@ -216,9 +216,23 @@
               "icon": "lucide-file",
               "title": "14.08.25 адреса"
             }
+          },
+          {
+            "id": "7388fe15db71666d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17.08.25 адрес.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17.08.25 адрес"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -351,10 +365,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bea3dd133f24cb41",
+  "active": "7388fe15db71666d",
   "lastOpenFiles": [
-    "09.08.25 неделю с другими настройками.md",
     "14.08.25 адреса.md",
+    "17.08.25 адрес.md",
+    "09.08.25 неделю с другими настройками.md",
     "09.08.25 занятие.md",
     "08.08.25 список покупок.md",
     "02.08.25 список покупок.md",
