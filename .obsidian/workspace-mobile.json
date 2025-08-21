@@ -261,7 +261,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byCreatedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -382,10 +382,10 @@
   },
   "active": "262da00aadeec6a0",
   "lastOpenFiles": [
-    "17.08.25 адрес.md",
-    "19.08.25 блинчик ветчина сыр.md",
-    "14.08.25 адреса.md",
     "09.08.25 неделю с другими настройками.md",
+    "19.08.25 блинчик ветчина сыр.md",
+    "17.08.25 адрес.md",
+    "14.08.25 адреса.md",
     "09.08.25 занятие.md",
     "08.08.25 список покупок.md",
     "02.08.25 список покупок.md",
