@@ -272,9 +272,19 @@
               "icon": "lucide-file",
               "title": "24.08.25 адрес"
             }
+          },
+          {
+            "id": "61f6f2d3d3cc87f5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -408,10 +418,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d2de8b038aeac6d",
+  "active": "61f6f2d3d3cc87f5",
   "lastOpenFiles": [
-    "22.08.25 адрес.md",
     "24.08.25 адрес.md",
+    "22.08.25 адрес.md",
     "19.08.25 блинчик ветчина сыр.md",
     "09.08.25 неделю с другими настройками.md",
     "17.08.25 адрес.md",
