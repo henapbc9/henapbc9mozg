@@ -277,10 +277,14 @@
             "id": "61f6f2d3d3cc87f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "09.09.25 приоритеты на ближайшее время.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "09.09.25 приоритеты на ближайшее время"
             }
           }
         ],
@@ -420,6 +424,7 @@
   },
   "active": "61f6f2d3d3cc87f5",
   "lastOpenFiles": [
+    "09.09.25 приоритеты на ближайшее время.md",
     "24.08.25 адрес.md",
     "22.08.25 адрес.md",
     "19.08.25 блинчик ветчина сыр.md",
