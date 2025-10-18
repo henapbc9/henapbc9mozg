@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "7f2d263e4318b0f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "14a5d5ba1beb4a4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34402471c15d292d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09.08.25 занятие.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09.08.25 занятие"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2858fdd1944d829a",
+    "type": "split",
+    "children": [
+      {
+        "id": "08569735cd7112ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aac49341157408a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3a1bac668f15919c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e03a914e1cdf1a21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6938b23295a4a816",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8603212cdbcd0c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e1e0677d1757f7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "cec059a064d0aaca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "67c7a8d747171de9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "76f8965e04a69894",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "da17f719f75c0628",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "34402471c15d292d",
+  "lastOpenFiles": [
+    "09.07.25 список дел.md",
+    "29.07.25 дела на ближайшее время.md",
+    "25.07.25 доработка бота.md",
+    "24.09.25 список дел.md",
+    "24.08.25 адрес.md",
+    "22.08.25 адрес.md",
+    "20.07.25 список дел.md",
+    "20.07.25 список вещей на озёра.md",
+    "19.08.25 блинчик ветчина сыр.md",
+    "17.08.25 адрес.md",
+    "17.07.25 things I want.md",
+    "14.08.25 адреса.md",
+    "13.07.25 вебинар.md",
+    "12.07.25 список дел.md",
+    "10.07.25 ники на вайпы.md",
+    "09.09.25 приоритеты на ближайшее время.md",
+    "09.08.25 неделю с другими настройками.md",
+    "09.08.25 занятие.md",
+    "08.08.25 список покупок.md",
+    "07.10.25 what I should do with my life/универ/2 семестр/физра.md",
+    "07.10.25 what I should do with my life/универ/2 семестр/программирование.md",
+    "07.10.25 what I should do with my life/универ/2 семестр/исит.md",
+    "07.10.25 what I should do with my life/универ/все долги (текущие и потенциальные).md",
+    "07.10.25 what I should do with my life/универ/2 семестр",
+    "07.10.25 what I should do with my life/универ",
+    "07.10.25 what I should do with my life/UNFUCKING MY LIFE.md",
+    "07.10.25 what I should do with my life",
+    "07.07.25 список покупок.md",
+    "02.08.25 список покупок.md",
+    "henapbc9mozg/publish/attachments/vercel-project-id.png",
+    "henapbc9mozg/publish/attachments/vercel-create-token.png",
+    "henapbc9mozg/publish/attachments/vercel-account-id.png",
+    "henapbc9mozg/publish/attachments/publish-dir-yml.png",
+    "henapbc9mozg/publish/attachments/how-linked-blog-starter-works.png",
+    "henapbc9mozg/publish/attachments/github-secrets-vercel.png",
+    "henapbc9mozg/publish/attachments/fork-linked-blog-starter-md.png",
+    "henapbc9mozg/publish/attachments/fn-website-demo.gif",
+    "henapbc9mozg/publish/attachments/enable-actions-github.png",
+    "henapbc9mozg/publish/attachments/disconnect-repo-vercel.png",
+    "henapbc9mozg/publish/attachments",
+    "henapbc9mozg/publish",
+    "henapbc9mozg"
+  ]
+}
