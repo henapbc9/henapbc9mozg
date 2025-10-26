@@ -293,30 +293,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.10.25 what I should do with my life/универ/все долги (текущие и потенциальные).md",
+                "file": "2025/10/25.10.26 техника стоп.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "все долги (текущие и потенциальные)"
-            }
-          },
-          {
-            "id": "90b290169d4e19f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025/10/15.10.25 снимки флюро.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15.10.25 снимки флюро"
+              "title": "25.10.26 техника стоп"
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -393,7 +379,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "20.07.25 список вещей на озёра.md",
+            "file": "2025/10/25.10.26 техника стоп.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -450,8 +436,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6879e84c2a693d18",
+  "active": "d9396de4e18286fd",
   "lastOpenFiles": [
+    "2025/10/15.10.25 снимки флюро.md",
+    "2025/10/25.10.26 техника стоп.md",
     "2025/10/25.10.20 план на конец года.md",
     "2025/10/25.10.20 what works for me (and what doesn't) and why.md",
     "2025/10/25.10.20 NOTE TO SELF.md",
@@ -478,8 +466,6 @@
     "2025/08/25.08.09 неделю с другими настройками.md",
     "2025/08/25.08.09 занятие.md",
     "2025/08/25.08.08 список покупок.md",
-    "2025/08/25.08.02 список покупок.md",
-    "2025/07/25.07.29 дела на ближайшее время.md",
     "2025/10/25.10.07 what I should do with my life/универ/2 семестр",
     "2025/10/25.10.07 what I should do with my life/универ",
     "2025/10/25.10.07 what I should do with my life",
