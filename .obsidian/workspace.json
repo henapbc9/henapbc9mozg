@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/10/25.10.20 план на конец года.md",
+                "file": "2025/11/25.11.01 my deadlines (eta and actual time taken).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25.10.20 план на конец года"
+              "title": "25.11.01 my deadlines (eta and actual time taken)"
             }
           }
         ],
@@ -195,9 +195,11 @@
   },
   "active": "8020675ac8fd72d3",
   "lastOpenFiles": [
+    "2025/10/25.10.20 план на конец года.md",
+    "2025/11/25.11.01 my deadlines (eta and actual time taken).md",
+    "2025/11",
     "2025/10/25.10.26 техника стоп.md",
     "2025/10/25.10.20 NOTE TO SELF.md",
-    "2025/10/25.10.20 план на конец года.md",
     "2025/10/25.10.20 what works for me (and what doesn't) and why.md",
     "2025/07/25.07.13 вебинар.md",
     "2025/07/25.07.17 things I want.md",
@@ -225,7 +227,6 @@
     "2025/07/25.07.09 список дел.md",
     "2025/08/25.08.09 занятие.md",
     "2025/08/25.08.09 неделю с другими настройками.md",
-    "2025/08/25.08.08 список покупок.md",
     "Untitled.canvas",
     "2025/10/25.10.07 what I should do with my life/универ/2 семестр",
     "2025/10/25.10.07 what I should do with my life/универ",
@@ -240,7 +241,6 @@
     "henapbc9mozg/publish/attachments/fn-website-demo.gif",
     "henapbc9mozg/publish/attachments/enable-actions-github.png",
     "henapbc9mozg/publish/attachments/disconnect-repo-vercel.png",
-    "henapbc9mozg/publish/attachments",
-    "henapbc9mozg/publish"
+    "henapbc9mozg/publish/attachments"
   ]
 }
