@@ -293,12 +293,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/11/25.11.04 бонусная бани.md",
+                "file": "2025/11/25.11.28 военный билет.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25.11.04 бонусная бани"
+              "title": "25.11.28 военный билет"
             }
           }
         ],
@@ -379,7 +379,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2025/10/25.10.26 техника стоп.md",
+            "file": "2025/11/25.11.28 военный билет.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -436,13 +436,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6879e84c2a693d18",
+  "active": "d9396de4e18286fd",
   "lastOpenFiles": [
+    "2025/11/25.11.04 бонусная бани.md",
+    "2025/11/25.11.28 военный билет.md",
     "/2025/10/25.10.20 план на конец года.md",
     "/2025/10",
     "/2025",
     "2025/10/25.10.20 NOTE TO SELF.md",
-    "2025/11/25.11.04 бонусная бани.md",
     "2025/11/25.11.01 what helps me concentrate (and what doesn't).md",
     "2025/11/25.11.01 the truth is.md",
     "2025/11/25.11.01 my deadlines (eta and actual time taken).md",
