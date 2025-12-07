@@ -22,8 +22,37 @@
               "icon": "lucide-file",
               "title": "25.10.20 план на конец года"
             }
+          },
+          {
+            "id": "c365b67225c4b4dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/10/25.10.20 план на конец года.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25.10.20 план на конец года"
+            }
+          },
+          {
+            "id": "b8a7eef65f738fed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I NEED TO GET TF OUTTA HERE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "I NEED TO GET TF OUTTA HERE"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,10 +209,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34402471c15d292d",
+  "active": "b8a7eef65f738fed",
   "lastOpenFiles": [
-    "2025/!PINNED NOTES!.md",
+    "I NEED TO GET TF OUTTA HERE.md",
+    "2025/10/25.10.15 снимки флюро.md",
     "2025/10/25.10.20 план на конец года.md",
+    "2025/12/25.12.01 стоматология.md",
+    "2025/12",
+    "2025/11/25.11.28 военный билет.md",
+    "2025/11/25.11.28 puns.md",
+    "2025/!PINNED NOTES!.md",
     "2025/11/25.11.01 the truth is.md",
     "2025/11/25.11.04 бонусная бани.md",
     "2025/10/25.10.30 психиатр.md",
@@ -196,7 +231,6 @@
     "2025/07/25.07.13 вебинар.md",
     "2025/07/25.07.17 things I want.md",
     "2025/07/25.07.29 дела на ближайшее время.md",
-    "2025/10/25.10.15 снимки флюро.md",
     "2025/10/25.10.07 what I should do with my life/универ/все долги (текущие и потенциальные).md",
     "2025/10/25.10.07 what I should do with my life/UNFUCKING MY LIFE.md",
     "2025/10/25.10.07 what I should do with my life/универ/2 семестр/программирование.md",
@@ -210,10 +244,6 @@
     "2025",
     "2025/08/25.08.24 адрес.md",
     "2025/08/25.08.19 блинчик ветчина сыр.md",
-    "2025/07/25.07.20 список вещей на озёра.md",
-    "2025/07/25.07.20 список дел.md",
-    "2025/08/25.08.14 адреса.md",
-    "2025/08/25.08.17 адрес.md",
     "Untitled.canvas",
     "2025/10/25.10.07 what I should do with my life/универ/2 семестр",
     "2025/10/25.10.07 what I should do with my life/универ",
@@ -227,7 +257,6 @@
     "henapbc9mozg/publish/attachments/fork-linked-blog-starter-md.png",
     "henapbc9mozg/publish/attachments/fn-website-demo.gif",
     "henapbc9mozg/publish/attachments/enable-actions-github.png",
-    "henapbc9mozg/publish/attachments/disconnect-repo-vercel.png",
-    "henapbc9mozg/publish/attachments"
+    "henapbc9mozg/publish/attachments/disconnect-repo-vercel.png"
   ]
 }
