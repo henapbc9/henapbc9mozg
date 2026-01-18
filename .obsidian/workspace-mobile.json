@@ -11,14 +11,10 @@
             "id": "9d1daf235ff6909b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07.07.25 список покупок.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "07.07.25 список покупок"
+              "title": "New tab"
             }
           },
           {
@@ -307,16 +303,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/11/25.11.28 военный билет.md",
+                "file": "2025/12/25.12.22 one step closer перевод.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25.11.28 военный билет"
+              "title": "25.12.22 one step closer перевод"
+            }
+          },
+          {
+            "id": "93a255a5d9b30114",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 21
+        ]
       }
     ],
     "direction": "vertical"
@@ -450,17 +455,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97d9d53dd725ee08",
+  "active": "9d1daf235ff6909b",
   "lastOpenFiles": [
+    "2026/01/26.01.02 new year's resolution.md",
+    "/2026/01/26.01.02 new year's resolution.md",
+    "/2025/11/25.11.28 puns.md",
+    "/2025/11",
+    "/2025",
+    "2026/01",
+    "2026",
+    "/2026/01",
+    "/2026",
+    "2025/12/25.12.22 one step closer перевод.md",
+    "2025/11/25.11.28 военный билет.md",
     "I NEED TO GET TF OUTTA HERE.md",
     "2025/11/25.11.28 puns.md",
     "2025/12/25.12.01 стоматология.md",
     "2025/12",
-    "2025/11/25.11.28 военный билет.md",
     "2025/11/25.11.04 бонусная бани.md",
     "/2025/10/25.10.20 план на конец года.md",
     "/2025/10",
-    "/2025",
     "2025/10/25.10.20 NOTE TO SELF.md",
     "2025/11/25.11.01 what helps me concentrate (and what doesn't).md",
     "2025/11/25.11.01 the truth is.md",
@@ -468,7 +482,6 @@
     "/2025/11/25.11.01 what helps me concentrate (and what doesn't).md",
     "/2025/11/25.11.01 the truth is.md",
     "/2025/11/25.11.01 my deadlines (eta and actual time taken).md",
-    "/2025/11",
     "2025/11",
     "2025/10/25.10.30 психиатр.md",
     "2025/10/25.10.26 техника стоп.md",
@@ -479,14 +492,6 @@
     "/2025/10/25.10.20 NOTE TO SELF.md",
     "/2025/10/25.10.15 снимки флюро.md",
     "2025/10/25.10.15 снимки флюро.md",
-    "2025/10/25.10.07 what I should do with my life/универ/все долги (текущие и потенциальные).md",
-    "/2025/10/25.10.07 what I should do with my life/универ/все долги (текущие и потенциальные).md",
-    "2025/10/25.10.07 what I should do with my life/универ/2 семестр/физра.md",
-    "2025/10/25.10.07 what I should do with my life/универ/2 семестр/программирование.md",
-    "2025/10/25.10.07 what I should do with my life/универ/2 семестр",
-    "2025/10/25.10.07 what I should do with my life/универ",
-    "2025/10/25.10.07 what I should do with my life",
-    "2025/10",
-    "2025/09"
+    "2025/10/25.10.07 what I should do with my life/универ/2 семестр"
   ]
 }
