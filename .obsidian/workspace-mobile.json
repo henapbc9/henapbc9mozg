@@ -11,10 +11,14 @@
             "id": "9d1daf235ff6909b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026/01/26.01.18 рифмы.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "26.01.18 рифмы"
             }
           },
           {
@@ -457,6 +461,7 @@
   },
   "active": "9d1daf235ff6909b",
   "lastOpenFiles": [
+    "2026/01/26.01.18 рифмы.md",
     "2026/01/26.01.02 new year's resolution.md",
     "/2026/01/26.01.02 new year's resolution.md",
     "/2025/11/25.11.28 puns.md",
@@ -491,7 +496,6 @@
     "/2025/10/25.10.20 what works for me (and what doesn't) and why.md",
     "/2025/10/25.10.20 NOTE TO SELF.md",
     "/2025/10/25.10.15 снимки флюро.md",
-    "2025/10/25.10.15 снимки флюро.md",
     "2025/10/25.10.07 what I should do with my life/универ/2 семестр"
   ]
 }
