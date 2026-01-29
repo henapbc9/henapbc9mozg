@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "1514055ead0f0b77",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          },
+          {
             "id": "b8a7eef65f738fed",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c365b67225c4b4dc",
+  "active": "1514055ead0f0b77",
   "lastOpenFiles": [
     "2026/01/26.01.02 new year's resolution.md",
     "2025/10/25.10.20 план на конец года.md",
