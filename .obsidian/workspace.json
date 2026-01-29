@@ -41,12 +41,14 @@
             "id": "1514055ead0f0b77",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "2026/01/26.01.02 new year's resolution.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "26.01.02 new year's resolution"
             }
           },
           {
@@ -223,6 +225,8 @@
   },
   "active": "1514055ead0f0b77",
   "lastOpenFiles": [
+    "2026/01/26.01.18 рифмы.md",
+    "2025/12/25.12.22 one step closer перевод.md",
     "2026/01/26.01.02 new year's resolution.md",
     "2025/10/25.10.20 план на конец года.md",
     "I NEED TO GET TF OUTTA HERE.md",
@@ -251,13 +255,11 @@
     "2025/10/25.10.07 what I should do with my life/универ/2 семестр/программирование.md",
     "2025/10/25.10.07 what I should do with my life/универ/2 семестр/физра.md",
     "2025/10/25.10.07 what I should do with my life/универ/2 семестр/ЗАКРЫТО исит.md",
-    "2025/08/25.08.22 адрес.md",
     "2025/10",
     "2025/09",
     "2025/08",
     "2025/07",
     "2025",
-    "2025/08/25.08.24 адрес.md",
     "Untitled.canvas",
     "2025/10/25.10.07 what I should do with my life/универ/2 семестр",
     "henapbc9mozg/publish/attachments/vercel-project-id.png",
