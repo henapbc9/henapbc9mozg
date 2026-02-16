@@ -52,6 +52,30 @@
             }
           },
           {
+            "id": "61f6a3cb7a092f92",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
+            "id": "90c3199d5d34b169",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
             "id": "b8a7eef65f738fed",
             "type": "leaf",
             "state": {
@@ -66,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -223,7 +247,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1514055ead0f0b77",
+  "active": "90c3199d5d34b169",
   "lastOpenFiles": [
     "2026/01/26.01.18 рифмы.md",
     "2025/12/25.12.22 one step closer перевод.md",
