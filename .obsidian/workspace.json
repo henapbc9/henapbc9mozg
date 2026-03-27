@@ -79,12 +79,14 @@
             "id": "5e17445feb9afe7f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "2026/01/26.01.18 рифмы.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "26.01.18 рифмы"
             }
           },
           {
@@ -261,8 +263,13 @@
   },
   "active": "5e17445feb9afe7f",
   "lastOpenFiles": [
-    "2026/01/26.01.26 given up русский припер.md",
+    "2026/02/26.02.22 the transition album.md",
+    "2026/03/26.03.04 долги.md",
     "2026/01/26.01.18 рифмы.md",
+    "2026/03/26.03.03 measurements.md",
+    "2026/03",
+    "2026/02",
+    "2026/01/26.01.26 given up русский припер.md",
     "2025/12/25.12.22 one step closer перевод.md",
     "2026/01/26.01.02 new year's resolution.md",
     "2025/10/25.10.20 план на конец года.md",
@@ -288,16 +295,11 @@
     "2025/07/25.07.17 things I want.md",
     "2025/07/25.07.29 дела на ближайшее время.md",
     "2025/10/25.10.07 what I should do with my life/универ/все долги (текущие и потенциальные).md",
-    "2025/10/25.10.07 what I should do with my life/UNFUCKING MY LIFE.md",
-    "2025/10/25.10.07 what I should do with my life/универ/2 семестр/программирование.md",
-    "2025/10/25.10.07 what I should do with my life/универ/2 семестр/физра.md",
     "2025/10",
     "2025/09",
     "2025/08",
     "2025/07",
-    "2025",
     "Untitled.canvas",
-    "2025/10/25.10.07 what I should do with my life/универ/2 семестр",
     "henapbc9mozg/publish/attachments/vercel-project-id.png",
     "henapbc9mozg/publish/attachments/vercel-create-token.png",
     "henapbc9mozg/publish/attachments/vercel-account-id.png",
