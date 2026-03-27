@@ -76,6 +76,18 @@
             }
           },
           {
+            "id": "5e17445feb9afe7f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
             "id": "b8a7eef65f738fed",
             "type": "leaf",
             "state": {
@@ -90,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -247,8 +259,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90c3199d5d34b169",
+  "active": "5e17445feb9afe7f",
   "lastOpenFiles": [
+    "2026/01/26.01.26 given up русский припер.md",
     "2026/01/26.01.18 рифмы.md",
     "2025/12/25.12.22 one step closer перевод.md",
     "2026/01/26.01.02 new year's resolution.md",
@@ -278,7 +291,6 @@
     "2025/10/25.10.07 what I should do with my life/UNFUCKING MY LIFE.md",
     "2025/10/25.10.07 what I should do with my life/универ/2 семестр/программирование.md",
     "2025/10/25.10.07 what I should do with my life/универ/2 семестр/физра.md",
-    "2025/10/25.10.07 what I should do with my life/универ/2 семестр/ЗАКРЫТО исит.md",
     "2025/10",
     "2025/09",
     "2025/08",
