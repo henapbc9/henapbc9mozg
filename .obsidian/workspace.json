@@ -93,12 +93,14 @@
             "id": "a7e2f86a4c0e8759",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "2026/универ лекции/теория вероятности.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "теория вероятности"
             }
           },
           {
@@ -263,6 +265,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -273,13 +276,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0aac49341157408a",
+  "active": "a7e2f86a4c0e8759",
   "lastOpenFiles": [
+    "2026/универ лекции/теория вероятности.md",
     "2026/04/26.04.06 долги учёба.md",
     "2026/04",
     "2026/03/26.03.29 ближайшие траты.md",
     "2026/03/26.03.28 почему заха хуесос.md",
-    "2026/Untitled",
+    "2026/универ лекции",
     "2026/02/26.02.22 the transition album.md",
     "2026/03/26.03.04 долги.md",
     "2026/01/26.01.18 рифмы.md",
@@ -308,7 +312,6 @@
     "2025/10/25.10.26 техника стоп.md",
     "2025/10/25.10.20 NOTE TO SELF.md",
     "2025/10/25.10.20 what works for me (and what doesn't) and why.md",
-    "2025/07/25.07.13 вебинар.md",
     "2025/10",
     "2025/09",
     "Untitled.canvas",
