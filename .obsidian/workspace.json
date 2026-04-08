@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "a3449258a8b92db8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2026-04-08 13.47.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-08 13.47.31.excalidraw"
+            }
+          },
+          {
             "id": "b8a7eef65f738fed",
             "type": "leaf",
             "state": {
@@ -118,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -276,9 +288,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7e2f86a4c0e8759",
+  "active": "a3449258a8b92db8",
   "lastOpenFiles": [
     "2026/универ лекции/теория вероятности.md",
+    "Drawing 2026-04-08 13.47.31.excalidraw.md",
+    "Drawing 2026-04-08 13.45.45.excalidraw.md",
+    "Untitled.base",
     "2026/04/26.04.06 долги учёба.md",
     "2026/04",
     "2026/03/26.03.29 ближайшие траты.md",
@@ -310,10 +325,7 @@
     "2025/11/25.11.01 my deadlines (eta and actual time taken).md",
     "2025/11",
     "2025/10/25.10.26 техника стоп.md",
-    "2025/10/25.10.20 NOTE TO SELF.md",
-    "2025/10/25.10.20 what works for me (and what doesn't) and why.md",
     "2025/10",
-    "2025/09",
     "Untitled.canvas",
     "henapbc9mozg/publish/attachments/vercel-project-id.png",
     "henapbc9mozg/publish/attachments/vercel-create-token.png",
