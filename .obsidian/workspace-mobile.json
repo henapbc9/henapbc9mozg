@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/04/26.04.06 долги учёба.md",
+                "file": "2026/04/26.04.12 песня _a part of me (I thought I never had)_.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26.04.06 долги учёба"
+              "title": "26.04.12 песня _a part of me (I thought I never had)_"
             }
           },
           {
@@ -450,19 +450,30 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "9d1daf235ff6909b",
   "lastOpenFiles": [
-    "2026/01/26.01.18 рифмы.md",
+    "/2026/04/26.04.14.md",
+    "2026/04/26.04.14.md",
+    "/2026/04",
+    "/2026",
     "2026/04/26.04.06 долги учёба.md",
+    "2026/04/26.04.12 песня _a part of me (I thought I never had)_.md",
+    "Drawing 2026-04-08 13.47.31.excalidraw.md",
+    "2026/универ лекции/теория вероятности.md",
+    "/Drawing 2026-04-08 13.47.31.excalidraw.md",
+    "/2026/универ лекции/теория вероятности.md",
+    "/2026/универ лекции",
+    "2026/универ лекции",
+    "2026/01/26.01.18 рифмы.md",
     "2026/04",
     "2026/03/26.03.04 долги.md",
     "2026/03/26.03.29 ближайшие траты.md",
@@ -471,7 +482,6 @@
     "2026/03/26.03.28 почему заха хуесос.md",
     "/2026/01/26.01.18 рифмы.md",
     "/2026/01",
-    "/2026",
     "2026/03/26.03.03 measurements.md",
     "2026/02/26.02.22 the transition album.md",
     "2025/11/25.11.01 my deadlines (eta and actual time taken).md",
@@ -483,19 +493,9 @@
     "2025/08/25.08.09 неделю с другими настройками.md",
     "2025/08/25.08.14 адреса.md",
     "2025/08/25.08.17 адрес.md",
-    "2025/08/25.08.19 блинчик ветчина сыр.md",
-    "2025/11/25.11.28 puns.md",
     "2026/03",
-    "2025/07/25.07.29 дела на ближайшее время.md",
-    "2026/02/26.02.14 каламбуры.md",
     "2026/02",
-    "/2026/01/26.01.02 new year's resolution.md",
-    "2026/01/26.01.26 given up русский припер.md",
-    "/2025/11/25.11.28 puns.md",
     "/2025/11",
-    "/2025",
-    "2026/01",
-    "2026",
-    "2025/12"
+    "/2025"
   ]
 }
