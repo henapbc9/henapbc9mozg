@@ -107,12 +107,14 @@
             "id": "a3449258a8b92db8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawing 2026-04-08 13.47.31.excalidraw.md"
+                "file": "2026/04/26.04.14.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-08 13.47.31.excalidraw"
+              "icon": "lucide-file",
+              "title": "26.04.14"
             }
           },
           {
@@ -288,9 +290,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3449258a8b92db8",
+  "active": "0aac49341157408a",
   "lastOpenFiles": [
     "Drawing 2026-04-08 13.47.31.excalidraw.md",
+    "2026/04/26.04.14.md",
     "2026/универ лекции/теория вероятности.md",
     "Drawing 2026-04-08 13.45.45.excalidraw.md",
     "Untitled.base",
@@ -324,7 +327,6 @@
     "2025/11/25.11.01 what helps me concentrate (and what doesn't).md",
     "2025/11/25.11.01 my deadlines (eta and actual time taken).md",
     "2025/11",
-    "2025/10/25.10.26 техника стоп.md",
     "2025/10",
     "Untitled.canvas",
     "henapbc9mozg/publish/attachments/vercel-project-id.png",
