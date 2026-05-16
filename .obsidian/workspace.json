@@ -109,12 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/04/26.04.14 the essentials of my well-being (subject to change).md",
+                "file": "2026/05/26.05.16 проработка боймода.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26.04.14 the essentials of my well-being (subject to change)"
+              "title": "26.05.16 проработка боймода"
+            }
+          },
+          {
+            "id": "a095ce086e757066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "things not tied to date.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "things not tied to date"
             }
           },
           {
@@ -132,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -289,14 +303,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0aac49341157408a",
+  "active": "a095ce086e757066",
   "lastOpenFiles": [
+    "2025/11/25.11.01 the truth is.md",
+    "things not tied to date.md",
+    "2025/07/25.07.17 things I want.md",
+    "2026/05/26.05.16 проработка боймода.md",
+    "things not tied to date",
+    "2026/04/26.04.14 the essentials of my well-being (subject to change).md",
     "ЦИТАТЫ ВЕЛИКИХ ЛЮДЕЙ.md",
     "2026/04/26.04.24 observations about myself.md",
     "2026/04/26.04.23 рост и вес.md",
     "2026/05",
     "2026/04/26.04.06 долги учёба.md",
-    "2026/04/26.04.14 the essentials of my well-being (subject to change).md",
     "2026/04/26.04.12 песня _a part of me (I thought I never had)_.md",
     "Drawing 2026-04-08 13.47.31.excalidraw.md",
     "2026/универ лекции/теория вероятности.md",
@@ -322,11 +341,6 @@
     "2025/10/25.10.15 снимки флюро.md",
     "2025/12/25.12.01 стоматология.md",
     "2025/12",
-    "2025/11/25.11.28 военный билет.md",
-    "2025/11/25.11.28 puns.md",
-    "2025/!PINNED NOTES!.md",
-    "2025/11/25.11.01 the truth is.md",
-    "2025/11",
     "Untitled.canvas",
     "henapbc9mozg/publish/attachments/vercel-project-id.png",
     "henapbc9mozg/publish/attachments/vercel-create-token.png",
