@@ -101,3 +101,5 @@ what
 I just want to be happy 🥺
 fuck it
 fuck this world
+[[25.11.28 puns]]
+[[26.01.18 рифмы]]
