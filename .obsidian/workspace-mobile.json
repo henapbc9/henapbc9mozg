@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "ff97c61b201cfb2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw unfiltered shit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "raw unfiltered shit"
+            }
+          },
+          {
             "id": "942f5ef34bbe839e",
             "type": "leaf",
             "state": {
@@ -326,7 +340,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -462,9 +476,13 @@
   },
   "active": "6879e84c2a693d18",
   "lastOpenFiles": [
+    "my music design document (nuclear wasteland with no structure whatsoever).md",
+    "/my music design document (nuclear wasteland with no structure whatsoever).md",
+    "2026/06/Untitled.md",
+    "raw unfiltered shit.md",
+    "important message to my future self.md",
     "/ЦИТАТЫ ВЕЛИКИХ ЛЮДЕЙ.md",
     "2026/01/26.01.18 рифмы.md",
-    "important message to my future self.md",
     "/important message to my future self.md",
     "things not tied to date.md",
     "/2026/06/26.09.10 song.md",
@@ -492,10 +510,6 @@
     "/2026/05/26.05.16 проработка боймода.md",
     "/2026/05",
     "2026/05",
-    "2026/01/26.01.02 new year's resolution.md",
-    "2025/10/25.10.07 what I should do with my life/универ/2 семестр/физра.md",
-    "2025/10/25.10.07 what I should do with my life/универ/все долги (текущие и потенциальные).md",
-    "2025/10/25.10.07 what I should do with my life/UNFUCKING MY LIFE.md",
     "/2026/04",
     "/2026/универ лекции"
   ]
