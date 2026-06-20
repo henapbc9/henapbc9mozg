@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/01/26.01.18 рифмы.md",
+                "file": "2025/11/25.11.28 puns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26.01.18 рифмы"
+              "title": "25.11.28 puns"
             }
           },
           {
@@ -458,9 +458,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "0a534e12d4f4b5a2",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -478,21 +488,21 @@
   "lastOpenFiles": [
     "things not tied to date.md",
     "raw unfiltered shit.md",
+    "2026/01/26.01.18 рифмы.md",
+    "/2026/01/26.01.18 рифмы.md",
+    "/2026/01",
+    "/2026",
     "important message to my future self.md",
     "my music design document (nuclear wasteland with no structure whatsoever).md",
     "/my music design document (nuclear wasteland with no structure whatsoever).md",
     "2026/06/Untitled.md",
     "/ЦИТАТЫ ВЕЛИКИХ ЛЮДЕЙ.md",
-    "2026/01/26.01.18 рифмы.md",
     "/important message to my future self.md",
     "/2026/06/26.09.10 song.md",
     "/2026/06",
-    "/2026",
     "2026/06/26.09.10 song.md",
     "2026/06/учёба долги и текущий семестр/26.06.05 долги.md",
     "2026/06/26.06.09 задание 3 сем англ.md",
-    "/2026/01/26.01.18 рифмы.md",
-    "/2026/01",
     "2026/06/26.06.05 english.md",
     "2026/06/учёба долги и текущий семестр",
     "2025/11/25.11.28 puns.md",
@@ -507,7 +517,6 @@
     "the transition album wip",
     "2026/05/26.05.16 проработка боймода.md",
     "/things not tied to date.md",
-    "/2026/05/26.05.16 проработка боймода.md",
     "/2026/05",
     "2026/05",
     "/2026/04",
