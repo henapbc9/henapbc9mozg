@@ -1,0 +1,397 @@
+{
+  "main": {
+    "id": "7f2d263e4318b0f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "32a5f7863cd2339a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34402471c15d292d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/10/25.10.20 план на конец года.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "25.10.20 план на конец года"
+            }
+          },
+          {
+            "id": "c365b67225c4b4dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/11/25.11.28 puns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25.11.28 puns"
+            }
+          },
+          {
+            "id": "1514055ead0f0b77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026/01/26.01.02 new year's resolution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26.01.02 new year's resolution"
+            }
+          },
+          {
+            "id": "61f6a3cb7a092f92",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
+            "id": "90c3199d5d34b169",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
+            "id": "5e17445feb9afe7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026/01/26.01.18 рифмы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26.01.18 рифмы"
+            }
+          },
+          {
+            "id": "a7e2f86a4c0e8759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026/универ лекции/теория вероятности.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "теория вероятности"
+            }
+          },
+          {
+            "id": "a3449258a8b92db8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026/05/26.05.16 проработка боймода.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26.05.16 проработка боймода"
+            }
+          },
+          {
+            "id": "a095ce086e757066",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026/06/26.06.20 english to textbook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26.06.20 english to textbook"
+            }
+          },
+          {
+            "id": "b8a7eef65f738fed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I NEED TO GET TF OUTTA HERE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "I NEED TO GET TF OUTTA HERE"
+            }
+          },
+          {
+            "id": "800527565d5c1791",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
+            "id": "a681ab0dc4c6858e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26.01.18 рифмы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26.01.18 рифмы"
+            }
+          },
+          {
+            "id": "1f2ca5e24c707c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2858fdd1944d829a",
+    "type": "split",
+    "children": [
+      {
+        "id": "08569735cd7112ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aac49341157408a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3a1bac668f15919c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e03a914e1cdf1a21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6938b23295a4a816",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8603212cdbcd0c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e1e0677d1757f7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "cec059a064d0aaca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "67c7a8d747171de9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "76f8965e04a69894",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "da17f719f75c0628",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1f2ca5e24c707c57",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "New Text Document.txt",
+    "26.01.18 рифмы.md",
+    "25.11.28 puns.md",
+    "2026/06/26.06.20 english to textbook.md",
+    "26.07.11 song titles.md",
+    "2026/26.07.09 measurements.md",
+    "2026/06/26.06.09 задание 3 сем англ.md",
+    "2026/01/26.01.18 рифмы.md",
+    "things not tied to date.md",
+    "my music design document (nuclear wasteland with no structure whatsoever).md",
+    "raw unfiltered shit.md",
+    "2025/11/25.11.28 puns.md",
+    "2026/06/учёба долги и текущий семестр/26.06.05 долги.md",
+    "2026/06/26.06.05 english.md",
+    "2026/02/26.02.22 the transition album.md",
+    "important message to my future self.md",
+    "ЦИТАТЫ ВЕЛИКИХ ЛЮДЕЙ.md",
+    "2026/06/26.09.10 song.md",
+    "2026/05/26.05.25.md",
+    "I NEED TO GET TF OUTTA HERE.md",
+    "2026/05/26.05.29 ambulance siren breakdown.md",
+    "2026/05/26.05.16 проработка боймода.md",
+    "2026/04/26.04.14 the essentials of my well-being (subject to change).md",
+    "2026/04/26.04.06 долги учёба.md",
+    "2026/03/26.03.29 ближайшие траты.md",
+    "2026/06/учёба долги и текущий семестр",
+    "2026/06",
+    "the transition album wip",
+    "things not tied to date",
+    "2026/05",
+    "Untitled.base",
+    "2026/04",
+    "2026/универ лекции",
+    "2026/03",
+    "Untitled.canvas",
+    "henapbc9mozg/publish/attachments/vercel-project-id.png",
+    "henapbc9mozg/publish/attachments/vercel-create-token.png",
+    "henapbc9mozg/publish/attachments/vercel-account-id.png",
+    "henapbc9mozg/publish/attachments/publish-dir-yml.png",
+    "henapbc9mozg/publish/attachments/how-linked-blog-starter-works.png",
+    "henapbc9mozg/publish/attachments/github-secrets-vercel.png",
+    "henapbc9mozg/publish/attachments/fork-linked-blog-starter-md.png",
+    "henapbc9mozg/publish/attachments/fn-website-demo.gif",
+    "henapbc9mozg/publish/attachments/enable-actions-github.png",
+    "henapbc9mozg/publish/attachments/disconnect-repo-vercel.png"
+  ]
+}
