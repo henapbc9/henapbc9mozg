@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25.11.28 puns.md",
+                "file": "2026/07/26.07.09 measurements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25.11.28 puns"
+              "title": "26.07.09 measurements"
             }
           },
           {
@@ -370,7 +370,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "byCreatedTime",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -501,9 +503,9 @@
   },
   "active": "d8c6ab29c384e8f0",
   "lastOpenFiles": [
+    "25.11.28 puns.md",
     "2026/07/26.07.27 бальзам.md",
     "26.01.18 рифмы.md",
-    "25.11.28 puns.md",
     "2026/07/26.07.17 song.md",
     "2026/07/26.07.16 практика ссылки.md",
     "/2026/07/26.07.17 song.md",
