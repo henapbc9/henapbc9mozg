@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/08/26.08.17 съёмное тело.md",
+                "file": "26.01.18 рифмы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26.08.17 съёмное тело"
+              "title": "26.01.18 рифмы"
             }
           },
           {
@@ -515,10 +515,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6879e84c2a693d18",
+  "active": "4b9ded2d391f9bb5",
   "lastOpenFiles": [
-    "yellowbag.md",
     "2026/08/26.08.17 съёмное тело.md",
+    "yellowbag.md",
     "/2026/08/26.08.17 съёмное тело.md",
     "/2026/08",
     "2026/08",
