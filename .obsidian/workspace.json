@@ -172,9 +172,21 @@
               "icon": "lucide-file",
               "title": "26.08.17 съёмное тело"
             }
+          },
+          {
+            "id": "b275a3d82f9f150a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -332,7 +346,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a681ab0dc4c6858e",
+  "active": "b275a3d82f9f150a",
   "lastOpenFiles": [
     "2026/07/26.07.17 song.md",
     "2026/08/26.08.17 съёмное тело.md",
