@@ -177,12 +177,14 @@
             "id": "b275a3d82f9f150a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.7"
+                "file": "2026/08/26.08.17 съёмное тело.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "icon": "lucide-file",
+              "title": "26.08.17 съёмное тело"
             }
           }
         ],
