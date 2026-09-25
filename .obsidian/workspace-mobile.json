@@ -11,13 +11,14 @@
             "id": "dc5f4157ad04943e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "2026/09/26.09.24 song.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "26.09.24 song"
             }
           },
           {
@@ -513,12 +514,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc5f4157ad04943e",
+  "active": "0a534e12d4f4b5a2",
   "lastOpenFiles": [
+    "Untitled.base",
     "2026/04/26.04.14 the essentials of my well-being (subject to change).md",
     "2026/08/26.08.17 съёмное тело.md",
     "2026/09/26.09.24 song.md",
-    "Untitled.base",
     "2026/09/26.09.10 трек-лист универа.md",
     "/Untitled.base",
     "/2026/09/26.09.10 трек-лист универа.md",
@@ -549,7 +550,6 @@
     "2026/03/26.03.28 почему заха хуесос.md",
     "important message to my future self.md",
     "/2026/06/26.06.20 english to textbook.md",
-    "/2026/06",
-    "/2026/01/26.01.18 рифмы.md"
+    "/2026/06"
   ]
 }
