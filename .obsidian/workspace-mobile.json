@@ -11,14 +11,13 @@
             "id": "dc5f4157ad04943e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "2026/04/26.04.14 the essentials of my well-being (subject to change).md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "26.04.14 the essentials of my well-being (subject to change)"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           },
           {
@@ -367,8 +366,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -515,8 +513,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a534e12d4f4b5a2",
+  "active": "dc5f4157ad04943e",
   "lastOpenFiles": [
+    "2026/04/26.04.14 the essentials of my well-being (subject to change).md",
     "2026/08/26.08.17 съёмное тело.md",
     "2026/09/26.09.24 song.md",
     "Untitled.base",
@@ -551,7 +550,6 @@
     "important message to my future self.md",
     "/2026/06/26.06.20 english to textbook.md",
     "/2026/06",
-    "/2026/01/26.01.18 рифмы.md",
-    "/2025/11/25.11.28 puns.md"
+    "/2026/01/26.01.18 рифмы.md"
   ]
 }
