@@ -25,12 +25,14 @@
             "id": "4b7980e2fbb76f69",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.4"
+                "file": "2026/10/26.10.20 питип чеклист.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.4"
+              "icon": "lucide-file",
+              "title": "26.10.20 питип чеклист"
             }
           }
         ],
@@ -196,6 +198,7 @@
   },
   "active": "4b7980e2fbb76f69",
   "lastOpenFiles": [
+    "2026/10/26.10.20 питип чеклист.md",
     "2026/10/26.10.14 УНИВЕР.md",
     "2026/09/26.09.10 трек-лист универа.md",
     "2026/10",
@@ -227,7 +230,6 @@
     "2026/06/учёба долги и текущий семестр/26.06.05 долги.md",
     "2026/06/26.06.05 english.md",
     "2026/02/26.02.22 the transition album.md",
-    "important message to my future self.md",
     "2026/06/учёба долги и текущий семестр",
     "2026/06",
     "the transition album wip",
